@@ -1,1 +1,1 @@
-# 3d-printing
+This is a collection of some of the objects I've modeled and 3D printed.
